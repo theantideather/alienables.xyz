@@ -1,7 +1,7 @@
 # PLAN
 
 ## Where we are (2026-10-15)
-Phase 0 in progress. CV and handles received and logged (46 claims in facts/claims.md). Phase 1 identity kit drafted, waiting on Om's approval. Decided: dromgurram.com, all work public, validation claims held. Open: registration status, Forbes video link, remaining numbers, photos.
+Phase 0 in progress. CV and handles received and logged (46 claims in facts/claims.md). Phase 1 approved. Phase 2 site built and tested locally (Lighthouse 100 x4), waiting on domain purchase and Cloudflare setup (DEPLOY.md). Decided: dromgurram.com, all work public, validation claims held. Open: registration status, Forbes video link, remaining numbers, photos.
 
 ## Phase 0: Interview
 - [x] Create CLAUDE.md, PLAN.md, facts/profile.md, facts/claims.md
@@ -24,25 +24,32 @@ Phase 0 in progress. CV and handles received and logged (46 claims in facts/clai
 - [ ] At least 3 proof links confirmed in facts/claims.md (gate for Phase 2)
 
 ## Phase 1: Identity kit
-- [x] identity/bios.md (one line, 50, 150, 300), draft for Om's approval
-- [x] identity/headlines.md, draft
+- [x] identity/bios.md (one line, 50, 150, 300), approved 2026-10-15
+- [x] identity/headlines.md, LinkedIn headline approved 2026-10-15
 - [x] identity/keywords.md
 - [x] identity/photo-guide.md
 
 ## Phase 2: Website
-- [ ] DESIGN.md (type pairing, colour, layout rationale)
-- [ ] Stack decision written down
-- [ ] Pages: /, /about, /work, /community, /speaking, /writing, /press, /contact
-- [ ] Titles start with "Dr. Om Gurram"
-- [ ] Person JSON-LD on every page
-- [ ] Organization JSON-LD (OroCare AI, CastleBlock), Event JSON-LD, Article JSON-LD
-- [ ] sitemap.xml, robots.txt (AI crawlers allowed), canonicals
-- [ ] Per page OG and X card images
-- [ ] /llms.txt
-- [ ] IndexNow key file and deploy ping
-- [ ] Deploy (Netlify or Cloudflare Pages) and DNS checklist
-- [ ] Rich Results Test and schema.org validator results pasted here
-- [ ] Lighthouse 95+ on all four scores
+- [x] DESIGN.md (Newsreader + Source Sans 3, burnt sienna accent)
+- [x] Stack decision written down (plain HTML from site/build.py, zero JS)
+- [x] Pages: /, /about, /work, /community, /speaking, /writing (noindex until first article), /press, /contact
+- [ ] About page rewritten from Om's own voice notes (current text is facts only)
+- [x] Titles start with "Dr. Om Gurram" (enforced by site/check.py)
+- [x] Person JSON-LD on every page
+- [ ] Person image (needs real headshot)
+- [x] Organization JSON-LD (OroCare AI, ResQ, CastleBlock with founder link)
+- [ ] Event JSON-LD (needs CastleBlock event dates)
+- [ ] Article JSON-LD (with first article)
+- [x] sitemap.xml, robots.txt (AI crawlers allowed), canonicals
+- [x] Per page OG and X card images (site/og.py)
+- [x] /llms.txt
+- [x] IndexNow key file and deploy ping (.github/workflows/deploy.yml)
+- [x] DNS and deploy checklist (DEPLOY.md, Cloudflare Pages)
+- [ ] Om: buy dromgurram.com, create Pages project, add GitHub secrets
+- [ ] Merge this branch into main (deploys run from main)
+- [ ] Om: set up hello@dromgurram.com forwarding
+- [ ] Rich Results Test and schema.org validator results pasted here (after deploy)
+- [x] Lighthouse 95+ on all four scores (local: 100/100/100/100 on /, /about, /work)
 
 ## Phase 3: Profiles
 - [ ] linkedin, x, instagram, youtube, github, medium/substack, crunchbase (Om and OroCare), wellfound, orcid, google-scholar, portfolio, startup-india

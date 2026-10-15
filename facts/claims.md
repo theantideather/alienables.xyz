@@ -84,4 +84,4 @@ Statuses:
 | 45 | Featured in a Forbes video | needs checking | x.com/omg14doteth/status/1647516925717786624 | No article. Need the video link |
 | 46 | Create AI Agents Championship entry | needs checking | | Only after submission |
 
-None of the proof links above have been opened yet. X blocks automated fetching, so Om needs to confirm each one shows what the claim says.
+Event months on the site are derived from each post's ID (post date), 2026-10-15. None of the proof links above have been opened yet. X blocks automated fetching, so Om needs to confirm each one shows what the claim says.
