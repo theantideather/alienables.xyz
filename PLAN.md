@@ -1,20 +1,24 @@
 # PLAN
 
 ## Where we are (2026-10-15)
-Phase 0 started. Project scaffold, brief, profile and claims register created. Waiting on interview answers.
+Phase 0 in progress. CV and handles received and logged (46 claims in facts/claims.md). Open: registration status, positioning of Web3 history, proof for big claims, domain, photos.
 
 ## Phase 0: Interview
 - [x] Create CLAUDE.md, PLAN.md, facts/profile.md, facts/claims.md
-- [ ] Identity: graduation year, registration display, name spelling
+- [x] Identity: graduation year (BDS 2026), name spelling
+- [ ] Registration status (Maharashtra State Dental Council?) and use of "Dr."
+- [ ] Decide how much Web3/NFT history appears on the site
 - [ ] Domain choice and purchase (check omgurram.com, dromgurram.com, omgurram.in at a registrar)
-- [ ] All profile URLs and handles
+- [x] Main profile URLs (LinkedIn, X, Instagram, GitHub, Medium, Linktree)
+- [ ] Remaining: YouTube, ORCID, Scholar, Crunchbase, Wellfound
 - [ ] Press contact email
 - [ ] 3 to 5 real photos
 - [ ] OroCare: dataset figure, co-founders, validation proofs, 2,600+ proof
 - [ ] ResQ: patent filing status, LLP details
 - [ ] CastleBlock: what, when, events, members, cities, photos
 - [ ] Jio World Centre and World Health Conference details and proof
-- [ ] PathPulse.ai details
+- [x] PathPulse.ai: role ended 2026
+- [ ] Current advisory companies and Tatya Capital details
 - [ ] At least 3 proof links confirmed in facts/claims.md (gate for Phase 2)
 
 ## Phase 1: Identity kit
