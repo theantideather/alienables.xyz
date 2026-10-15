@@ -1,14 +1,16 @@
 # PLAN
 
 ## Where we are (2026-10-15)
-Phase 0 in progress. CV and handles received and logged (46 claims in facts/claims.md). Open: registration status, positioning of Web3 history, proof for big claims, domain, photos.
+Phase 0 in progress. CV and handles received and logged (46 claims in facts/claims.md). Decided: dromgurram.com, all work public, validation claims held. Open: registration status, Forbes video link, remaining numbers, photos.
 
 ## Phase 0: Interview
 - [x] Create CLAUDE.md, PLAN.md, facts/profile.md, facts/claims.md
 - [x] Identity: graduation year (BDS 2026), name spelling
 - [ ] Registration status (Maharashtra State Dental Council?) and use of "Dr."
-- [ ] Decide how much Web3/NFT history appears on the site
-- [ ] Domain choice and purchase (check omgurram.com, dromgurram.com, omgurram.in at a registrar)
+- [x] Decide how much Web3/NFT history appears on the site (all of it)
+- [x] Domain choice: dromgurram.com
+- [ ] Buy dromgurram.com
+- [ ] Handle check: is "dromgurram" free on X, Instagram, LinkedIn, YouTube, GitHub, Medium?
 - [x] Main profile URLs (LinkedIn, X, Instagram, GitHub, Medium, Linktree)
 - [ ] Remaining: YouTube, ORCID, Scholar, Crunchbase, Wellfound
 - [ ] Press contact email

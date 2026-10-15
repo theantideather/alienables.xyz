@@ -12,8 +12,8 @@ Statuses:
 | # | Claim | Status | Proof | Notes |
 |---|---|---|---|---|
 | 1 | Full name Om Jayant Gurram | confirmed, no public proof | | Om, 2026-10-15 |
-| 2 | BDS, Sinhgad Dental College, Pune, 2026 | confirmed, no public proof | | Graduating 2026 |
-| 3 | Registered with Maharashtra State Dental Council | needs checking | | Granted or applied? Controls use of "Dr." |
+| 2 | BDS, Sinhgad Dental College, Pune (MUHS), 2026 | confirmed, no public proof | | Graduating 2026 |
+| 3 | Registered with Maharashtra State Dental Council | needs checking | | MUHS is the university, not registration. Granted, applied, or not yet? Controls use of "Dr." |
 | 4 | Based in Solapur and Pune | confirmed, no public proof | | |
 
 ## OroCare AI
@@ -24,12 +24,13 @@ Statuses:
 | 6 | Products: Diagnosify, Sim, VR Museum, Dentalverse | confirmed + proof | GitHub repos (Diagnosify, VRorocare, DENTALVERSE) | Sim has no link |
 | 7 | Detectron2 + LoRA model | confirmed, no public proof | | Not an "LLM". Do not call it one. Repo says classification CNN: reconcile |
 | 8 | Trained on 10 million+ images | needs checking | | Big claim. Source of images, licence, de-identification? |
-| 9 | "India's first dental-specific diagnostic LLM" | needs checking | | Superlative. Recommend dropping |
+| 9 | "India's first dental-specific diagnostic LLM" | dropped | | Om agreed, 2026-10-15 |
 | 10 | Whisper + Tacotron voice interface | confirmed, no public proof | | |
 | 11 | RVG to CBCT and Gaussian Splat work | needs checking | | Demo? |
-| 12 | Validated by Indian Dental Association | needs checking | | Big. What document, who signed |
-| 13 | Validated by American Heart Association | needs checking | | Big. AHA does not usually validate dental AI. What happened exactly? |
-| 14 | Validated by "National Medical Council" | needs checking | | Body is the National Medical Commission, and dentistry falls under Dental Council of India. What happened exactly? |
+| 12 | Validated by Indian Dental Association | do not publish | | Not institutional. Experts affiliated with associations are reviewing (Om, 2026-10-15) |
+| 13 | Validated by American Heart / Dental Association | do not publish | | Same as 12. Om also mentioned ADA |
+| 14 | Validated by "National Medical Council" | do not publish | | Same as 12 |
+| 14a | Clinical review of OroCare AI by practising dentists is under way | confirmed, no public proof | | Name reviewers only with their consent, once done |
 | 15 | 2,600+ medical professionals engaged | needs checking | | Big. What does it count? |
 
 ## ResQ
@@ -48,7 +49,7 @@ Statuses:
 | 20 | Founder, CastleBlock, since Mar 2022 | confirmed + proof | linktr.ee/castlexblock, instagram.com/castlexblock | Do these name Om? |
 | 21 | Solapur chapter led by Aksha Gurram | confirmed, no public proof | | Aksha OK to be named? |
 | 22 | 14 city chapters | needs checking | | List them |
-| 23 | 10,000+ contributors | needs checking | | What is counted? |
+| 23 | 10,000+ members across CastleBlock's WhatsApp groups | confirmed, no public proof | | Big number. Proof idea: dated screenshot of group member counts, names blurred, on /press. Note possible overlap between groups |
 | 24 | 100+ events | needs checking | | Need an event list with dates |
 | 25 | 37+ placements | needs checking | | |
 | 26 | MOUs with MIT-WPU, COEP, AISSMS, DY Patil | needs checking | | Big. MOU copies or college posts |
@@ -71,7 +72,7 @@ Statuses:
 | # | Claim | Status | Proof | Notes |
 |---|---|---|---|---|
 | 35 | Spoke at World Health Conference, Jio World Centre | confirmed + proof | x.com/omg14doteth/status/1850646138354913408 | Self proof |
-| 36 | Youngest speaker there | needs checking | | Superlative, needs organiser source |
+| 36 | Youngest speaker there | needs checking | | Om's basis: spoke as a student when other speakers were doctors. Safe wording now: "spoke as an undergraduate dental student". Ask organiser to confirm "youngest" (Phase 6) |
 | 37 | Spoke at IDA conference | confirmed + proof | x.com/omg14doteth/status/1842916428715852235 | Self proof. Which one? |
 | 38 | Work displayed twice at Jio World Centre, IDA events | needs checking | | |
 | 39 | CoinDCX event speaker | confirmed + proof | twitter.com/omg14doteth/status/1575092344529235969 | Self proof |
@@ -80,7 +81,7 @@ Statuses:
 | 42 | DY Patil University talk | confirmed + proof | x.com/omg14doteth/status/1636068130404577280 | Self proof |
 | 43 | Road to Devcon keynote | needs checking | | Need link |
 | 44 | Speaker at 50+ crypto events / 15+ NFT events | needs checking | | Numbers differ in CV |
-| 45 | Featured in Forbes x CoinDCX | needs checking | x.com/omg14doteth/status/1647516925717786624 | Need the article itself |
+| 45 | Featured in a Forbes video | needs checking | x.com/omg14doteth/status/1647516925717786624 | No article. Need the video link |
 | 46 | Create AI Agents Championship entry | needs checking | | Only after submission |
 
 None of the proof links above have been opened yet. X blocks automated fetching, so Om needs to confirm each one shows what the claim says.

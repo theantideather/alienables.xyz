@@ -10,9 +10,9 @@ Not stored here on purpose: phone number, WhatsApp group invite links (privacy a
 - Full name: Om Jayant Gurram (Om writes it "Dr. Om Jayant Gurram")
 - Alternate names (structured data, once in About): Om Gurram, Om Jayant Gurram, Dr. Gurram
 - Online handles that also identify him: omg14doteth (X), theantideather (GitHub, Instagram, Telegram), om.g (Medium, Linktree), omgdoteth (Discord)
-- Degree: BDS, Sinhgad Dental College, Pune. Graduating 2026.
+- Degree: BDS, Sinhgad Dental College, Pune (university: Maharashtra University of Health Sciences, MUHS). Graduating 2026.
   - Internship complete? [ASK]
-  - Registration: Om says "under MHS". Assumed to mean Maharashtra State Dental Council: [ASK confirm, and whether registration is granted or applied]
+  - MUHS is the degree awarding university, not the registering body. Practice registration is with the Maharashtra State Dental Council: [ASK granted, applied, or not yet]
   - Show registration number publicly? [ASK]
 - Based: Solapur and Pune, Maharashtra, India
 - Field: health tech and AI. Background in Web3 communities since 2022.
@@ -28,6 +28,8 @@ Not stored here on purpose: phone number, WhatsApp group invite links (privacy a
   - VR OroCare Museum (WebGL, A-Frame): github.com/theantideather/VRorocare
   - Dentalverse (dental research engine): github.com/theantideather/DENTALVERSE
 - Model: Detectron2 + LoRA on X-ray and cephalometric images. CV says "over 10 million images": [ASK, see claims]
+- Describe as "dental diagnostic AI". Not "LLM", not "India's first" (Om, 2026-10-15)
+- Clinical validation: in progress, through experts affiliated with dental and medical associations. No institutional validation yet. Do not write "validated by" any body.
 - Stack: FastAPI, MongoDB, AWS Lambda
 - Multilingual voice interface (Whisper, Tacotron) for rural users
 - Recent: RVG to CBCT, RVG to 3D Gaussian Splat
@@ -90,7 +92,7 @@ Still needed: World Health Conference year, talk title, organiser page. Jio Worl
 
 ## Recognition
 - Jio World Centre, work displayed twice at IDA events: [ASK details]
-- Forbes x CoinDCX feature: tweet x.com/omg14doteth/status/1647516925717786624, need the article URL
+- Forbes: no article. Forbes made a video about Om, which he shared on X. [ASK the video link, ideally on a Forbes owned account]
 - NFT Day feature: x.com/omg14doteth/status/1704227169281695854
 - IDA Dr. R. Ahmed Awards: applied. Publish only if won or shortlisted.
 
@@ -98,7 +100,8 @@ Still needed: World Health Conference year, talk title, organiser page. Jio Worl
 
 | Platform | URL |
 |---|---|
-| Domain | [ASK] (candidates: omgurram.com, dromgurram.com, omgurram.in) |
+| Domain | dromgurram.com (decided 2026-10-15, to be bought) |
+| Target handle everywhere | dromgurram, where the platform allows |
 | LinkedIn | https://linkedin.com/in/omgurram |
 | X | https://x.com/omg14doteth |
 | Instagram | https://instagram.com/theantideather |
@@ -113,6 +116,12 @@ Still needed: World Health Conference year, talk title, organiser page. Jio Worl
 | Crunchbase | [ASK] |
 | Wellfound | [ASK] |
 | Press email | [ASK] (CV uses a personal Gmail) |
+
+## Decisions log
+- 2026-10-15: Domain dromgurram.com. Handles move to dromgurram.
+- 2026-10-15: All work goes public, including Web3 history (CastleBlock, DGN Capital DAO, The Jalals, hackathons, NFT activity). Group invite links still stay off the site.
+- 2026-10-15: Drop "India's first" wording.
+- 2026-10-15: Validation claims held until the review is finished and documented.
 
 ## Photos
 Need 3 to 5 real photos. Received: none.
