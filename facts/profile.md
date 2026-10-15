@@ -102,7 +102,7 @@ Still needed: World Health Conference year, talk title, organiser page. Jio Worl
 |---|---|
 | Domain | dromgurram.com (decided 2026-10-15, to be bought) |
 | Target handle everywhere | dromgurram, where the platform allows |
-| LinkedIn | https://linkedin.com/in/omgurram |
+| LinkedIn | CV says linkedin.com/in/omgurram, but the indexed profile is https://www.linkedin.com/in/om-gurram-071a81334/ (headline "Dr in Web3"). [ASK which is real] |
 | X | https://x.com/omg14doteth |
 | Instagram | https://instagram.com/theantideather |
 | GitHub | https://github.com/theantideather (no display name, bio, location or website set yet) |
