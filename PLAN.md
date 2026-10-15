@@ -1,7 +1,7 @@
 # PLAN
 
 ## Where we are (2026-10-15)
-Phase 0 in progress. CV and handles received and logged (46 claims in facts/claims.md). Decided: dromgurram.com, all work public, validation claims held. Open: registration status, Forbes video link, remaining numbers, photos.
+Phase 0 in progress. CV and handles received and logged (46 claims in facts/claims.md). Phase 1 identity kit drafted, waiting on Om's approval. Decided: dromgurram.com, all work public, validation claims held. Open: registration status, Forbes video link, remaining numbers, photos.
 
 ## Phase 0: Interview
 - [x] Create CLAUDE.md, PLAN.md, facts/profile.md, facts/claims.md
@@ -24,10 +24,10 @@ Phase 0 in progress. CV and handles received and logged (46 claims in facts/clai
 - [ ] At least 3 proof links confirmed in facts/claims.md (gate for Phase 2)
 
 ## Phase 1: Identity kit
-- [ ] identity/bios.md (one line, 50, 150, 300)
-- [ ] identity/headlines.md (LinkedIn 220, X 160, Instagram 150, GitHub, YouTube)
-- [ ] identity/keywords.md
-- [ ] identity/photo-guide.md
+- [x] identity/bios.md (one line, 50, 150, 300), draft for Om's approval
+- [x] identity/headlines.md, draft
+- [x] identity/keywords.md
+- [x] identity/photo-guide.md
 
 ## Phase 2: Website
 - [ ] DESIGN.md (type pairing, colour, layout rationale)
